@@ -1,0 +1,26 @@
+DONE:
+1-Link List Implementation
+2-Queue Implementation
+3-Stacks Implementation
+4-Graph Implementation
+5-Path finding Implementaion
+6-Location API from google
+7-Minimum Spanning Tree Using Prim's Algorithm
+
+REMAINING (PARTIALLY IMPLEMENTED):
+1-Link List extension to Rider Entity remains (rider on default list from phase one, all else shifted successfully.)
+2-Automatic Query generation in Navigation.(Manual query entering by entering already displayed source and destination works).
+3-Bug in opening Email generation code needs to be resolved.
+4- Data being correctly bound works fine.
+
+NOT IMPLEMENTED:
+1-Jazzcash API for payments
+2-Sales Dashboard
+
+COMMENTS:
+Somethings ought to be improved in this project. But we are thankful to Allah SWT for his benevolence that we were able to complete this
+project in the first phase till this point. Alhamdulillah.
+
+							Shahzaib Irfan, 2021-CS-7
+							Afraz Butt, 2021-CS-12
+							Muhammad Hamza, 2021-CS-41
